@@ -20,7 +20,7 @@ public class individual_task {
             if(state_char == 'б')
             {
                 flag = true;
-            }
+            } 
             else if(state_char == 'к') {
                 flag = true;
                 System.out.println("Студент не має права отримувати стипендію, оскільки вчиться на контракті");
